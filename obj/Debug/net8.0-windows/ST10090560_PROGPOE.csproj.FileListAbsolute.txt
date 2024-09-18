@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\bin\Debug\net8.0-windows\ST10090560_PROGPOE.exe
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\bin\Debug\net8.0-windows\ST10090560_PROGPOE.deps.json
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\bin\Debug\net8.0-windows\ST10090560_PROGPOE.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\bin\Debug\net8.0-windows\ST10090560_PROGPOE.dll
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\bin\Debug\net8.0-windows\ST10090560_PROGPOE.pdb
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.dll
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\refint\ST10090560_PROGPOE.dll
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.pdb
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ref\ST10090560_PROGPOE.dll
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.MainMenu.resources
+C:\Users\lab_services_student\source\repos\ST10090560_PROGPOE\ST10090560_PROGPOE\obj\Debug\net8.0-windows\ST10090560_PROGPOE.ReportIssuesForm.resources
