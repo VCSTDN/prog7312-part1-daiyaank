@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ST10090560_PROGPOE/1.0.0": {
+        "runtime": {
+          "ST10090560_PROGPOE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ST10090560_PROGPOE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
